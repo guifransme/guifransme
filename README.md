@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+<a href="https://github.com/guifransme">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guifransme"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifransme"/>
+  <img height="180em" src=""/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=guifransme"/>
+
+</div>
