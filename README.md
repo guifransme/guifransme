@@ -1,19 +1,11 @@
-### Hi there 👋
+### guifransMe
+<div>
+  <p>
+  Esta conta è uma conta criada Pelo <a href="">@guifrans23</a> De material de Estudo de Programção.
+  Onde Todos os repositórios deste terão material de estudo rlecinaldo a programação.
+  </p>
+</div>
 
-<!--
-**guifransme/guifransme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div>
 <a href="https://github.com/guifransme">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guifransme"/>
